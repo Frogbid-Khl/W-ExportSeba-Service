@@ -746,7 +746,7 @@ header.fix_style .navbar-expand-lg .navbar-nav .nav-link.dark_btn {
 
 .top_home_wraper {
   background-image: url(../images/new/main_bg.png);
-  min-height: 1060px;
+  min-height: 1075px;
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -1806,7 +1806,7 @@ iframe#youtubevideo {
 }
 
 .pricing_section .pricing_pannel .pricing_block .price {
-  font-size: 48px;
+  font-size: 36px;
   color: var(--main_purple);
   margin: 25px 0;
   display: block;
@@ -1842,7 +1842,7 @@ iframe#youtubevideo {
 }
 
 .pricing_section .pricing_pannel .pricing_block .btn_main {
-  width: 180px;
+  width: 135px;
 }
 
 .pricing_section .pricing_pannel .pricing_block:not(.highlited_block) .btn_main:hover {
@@ -1907,7 +1907,7 @@ iframe#youtubevideo {
   color: var(--text-white);
   background-image: var(--bg-orange-gradiunt);
   font-size: 15px;
-  padding: 9px 38px;
+  padding: 9px 30px;
   border-radius: 25px;
   position: relative;
   font-weight: 700;
