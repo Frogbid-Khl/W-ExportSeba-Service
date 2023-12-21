@@ -873,7 +873,6 @@ header.fix_style .navbar-expand-lg .navbar-nav .nav-link.dark_btn {
 
 .banner_section .banner_images .sub_images img {
   position: absolute;
-  box-shadow: 0 0 14px 2px #0000001c;
   border-radius: 20px;
 }
 
